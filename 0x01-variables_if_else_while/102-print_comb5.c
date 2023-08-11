@@ -1,6 +1,6 @@
 Toggle navigationMenu 
 H
-holbertonschool-low_level_programming
+alx-low_level_programming
 Project information
 Repository
 Files
@@ -24,9 +24,9 @@ Snippets
 
 Close sidebar
 Martin Smith
-holbertonschool-low_level_programming
+alx-low_level_programming
 Repository
-holbertonschool-low_level_programming
+alx-low_level_programming
 0x01-variables_if_else_while
 102-print_comb5.c
 102-print_comb5.c
