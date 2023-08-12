@@ -20,7 +20,7 @@ int main(void)
 			if (n < 8)
 			{
 				putchar(',');
-				putchar(64);
+				putchar(32);
 			}
 			i++;
 		} while (i < 10);
