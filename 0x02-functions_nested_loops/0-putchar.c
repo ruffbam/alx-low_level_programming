@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * main - Entry point
  *
@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "main.h\n";
+	char *h = "main.c\n";
 
 	while (*h)
 	{
