@@ -1,4 +1,4 @@
-#include "main.c"
+#include "0x02-functions_nested_loops"
 /**
  * main - Entry point
  *
@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "main.c\n";
+	char *h = "0x02-functions_nested_loops\n";
 
 	while (*h)
 	{
