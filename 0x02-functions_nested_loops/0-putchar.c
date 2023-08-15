@@ -1,4 +1,4 @@
-#include "0x02-functions_nested_loops"
+#include "_putchar"
 /**
  * main - Entry point
  *
@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "0x02-functions_nested_loops\n";
+	char *h = "_putchar\n";
 
 	while (*h)
 	{
