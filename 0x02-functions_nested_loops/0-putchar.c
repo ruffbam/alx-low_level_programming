@@ -1,4 +1,4 @@
-#include "_putchar"
+#include "main.h"
 /**
  * main - Entry point
  *
@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "_putchar\n";
+	char *h = "main.h\n";
 
 	while (*h)
 	{
