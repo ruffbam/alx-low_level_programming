@@ -4,7 +4,7 @@
  *
  * Return : void
  */
-void jack_bauer(void)
+void 8-24_hours.c(void)
 {
 	int h0, h1;
 	int m0, m1;
