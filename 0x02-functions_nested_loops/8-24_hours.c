@@ -6,7 +6,6 @@
  * Return : void
  */
 void jack_bauer(void);
-
 {
 	int h0, h1;
 	int m0, m1;
