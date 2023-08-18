@@ -1,10 +1,3 @@
-alx-low_level_programming
-Repository
-alx-low_level_programming
-0x02-functions_nested_loops
-11-print_to_98.c
-11-print_to_98.c
-458 B
 #include "main.h"
 #include <stdio.h>
 /**
@@ -38,4 +31,3 @@ void print_to_98(int n)
 		}
 	}
 	printf("\n");
-}
