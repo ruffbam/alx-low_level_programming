@@ -2,14 +2,14 @@
 Menu
 Sign in
 Martin Smith
-alx-low_level_programming
+holbertonschool-low_level_programming
 Repository
-alx-low_level_programming
+holbertonschool-low_level_programming
 0x02-functions_nested_loops
 9-times_table.c
 9-times_table.c
 532 B
-#include "main.h"
+#include "holberton.h"
 /**
  * times_table - print out the 9 times table
  *
