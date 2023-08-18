@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * times_table - print out the 9 times table
  *
@@ -13,9 +14,9 @@ void times_table(void)
 		_putchar('0');
 		for (v = 1 ; v < 10 ; v++)
 		{
-	               int sum = v * h;
-	
-	        	_putchar(',');
+			int sum = v * h;
+
+			_putchar(',');
 			if (sum / 100 == 0)
 			{
 				_putchar(32);
@@ -40,3 +41,4 @@ void times_table(void)
 		_putchar('\n');
 	}
 }
+
