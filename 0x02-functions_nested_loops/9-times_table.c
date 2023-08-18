@@ -1,15 +1,4 @@
-
-Menu
-Sign in
-Martin Smith
-holbertonschool-low_level_programming
-Repository
-holbertonschool-low_level_programming
-0x02-functions_nested_loops
-9-times_table.c
-9-times_table.c
-532 B
-#include "holberton.h"
+#include "main.h"
 /**
  * times_table - print out the 9 times table
  *
