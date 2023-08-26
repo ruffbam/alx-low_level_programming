@@ -1,37 +1,4 @@
-Toggle navigationMenu 
-H
-holbertonschool-low_level_programming
-Project information
-Repository
-Files
-Commits
-Branches
-Tags
-Contributor statistics
-Graph
-Compare revisions
-Issues
-1
-Merge requests
-0
-CI/CD
-Deployments
-Packages and registries
-Monitor
-Analytics
-Wiki
-Snippets
-
-Close sidebar
-Martin Smith
-holbertonschool-low_level_programming
-Repository
-holbertonschool-low_level_programming
-0x03-more_functions_nested_loops
-9-fizz_buzz.c
-9-fizz_buzz.c
-494 B
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 /**
  * main - Entry point
