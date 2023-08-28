@@ -1,36 +1,3 @@
-Toggle navigationMenu 
-H
-holbertonschool-low_level_programming
-Project information
-Repository
-Files
-Commits
-Branches
-Tags
-Contributor statistics
-Graph
-Compare revisions
-Issues
-1
-Merge requests
-0
-CI/CD
-Deployments
-Packages and registries
-Monitor
-Analytics
-Wiki
-Snippets
-
-Close sidebar
-Martin Smith
-holbertonschool-low_level_programming
-Repository
-holbertonschool-low_level_programming
-0x06-pointers_arrays_strings
-3-strspn.c
-3-strspn.c
-678 B
 /**
  * _strspn - function  calculates  the  length (in bytes) of the initial
  * segment of s which consists entirely of bytes in accept.
