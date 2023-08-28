@@ -16,7 +16,7 @@ void print_to_98(int n);
 void print_times_table(int n);
 
 /**
- * prototypes for module 0x03
+ * prototypes for module 0x04
  */
 int _isupper(int c);
 int _isdigit(int c);
@@ -31,7 +31,7 @@ void print_triangle(int size);
 void print_number(int n);
 
 /**
- * Prototypes for module 0x04
+ * Prototypes for module 0x05
  */
 void reset_to_98(int *n);
 int _strlen(char *s);
@@ -45,7 +45,7 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 
 /**
- * Prototypes for Module 0x05
+ * Prototypes for Module 0x06
  */
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
@@ -58,4 +58,15 @@ char *leet(char *);
 char *rot13(char *);
 void print_number(int n);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
-
+/**
+ * Prototypes for Moduke 0x07
+ */
+char *_memset(char *s, char b, unsigned int n);
+char *_memcpy(char *dest, char *src, unsigned int n);
+char *_strchr(char *s, char c);
+unsigned int _strspn(char *s, char *accept);
+char *_strpbrk(char *s, char *accept);
+char *_strstr(char *haystack, char *needle);
+void print_chessboard(char (*a)[8]);
+void print_diagsums(int *a, int size);
+void set_string(char **s, char *to);
